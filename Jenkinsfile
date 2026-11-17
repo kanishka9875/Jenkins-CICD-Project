@@ -13,7 +13,7 @@ pipeline {
                 echo 'Downloading project from GitHub...'
 
                 git branch: 'main',
-                url: 'https://github.com/YOUR_USERNAME/Jenkins-CICD-Project.git'
+                url: 'https://github.com/kanishka9875/Jenkins-CICD-Project.git'
             }
         }
 
